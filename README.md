@@ -14,7 +14,6 @@ Create a sort for 2d matrices. Do a bubble sort, insertion sort, and selection s
 
 ![](library.png)
 
-
 # Main function
 I create a 2d array and print statements to enter value for rows and columns. And a for loop to iterate through the array and which helps to gather the data.
 
