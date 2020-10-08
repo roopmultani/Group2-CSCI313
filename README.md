@@ -1,10 +1,10 @@
 # Group2-CSCI313
 
-Luke Fang - Part 2 and Part 7
-Gomes Mikhaiel - Part 1 and Part 5
-Hila Ergys - Part 6 and Part 9
-Ibrat Nazara - Part 8 and Part 10
-Kaur Rupinder - Part 3 and Part 4
+Luke Fang - Part 2 and Part 7 <br />
+Gomes Mikhaiel - Part 1 and Part 5 <br />
+Hila Ergys - Part 6 and Part 9 <br />
+Ibrat Nazara - Part 8 and Part 10 <br />
+Kaur Rupinder - Part 3 and Part 4 <br />
 
 
 # QUESTION 3
